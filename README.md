@@ -1,4 +1,3 @@
-# Distinguishing Malicious from Benign
 # Malware Classification Project
 
 ## Project Overview
